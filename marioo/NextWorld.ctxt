@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=NextWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ NextWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=s\ n
+comment1.target=NextWorld(int,\ int)
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ addCoin()
+comment5.params=
+comment5.target=void\ loseLife()
+numComments=6

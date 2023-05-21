@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Group
+comment1.params=
+comment1.target=Group()
+comment2.params=actor
+comment2.target=void\ add(greenfoot.Actor)
+comment3.params=actor
+comment3.target=boolean\ remove(greenfoot.Actor)
+comment4.params=
+comment4.target=java.util.ArrayList\ getMembers()
+comment5.params=
+comment5.target=void\ act()
+numComments=6
